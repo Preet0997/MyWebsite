@@ -33,7 +33,7 @@ const description =
 const skillsList = [
   "Web Designing",
   "Azure Technologies",
-  "AIML Research",
+  "AI ML Research",
   "Team Leadership",
   "Research and Development",
   "Project Management",
