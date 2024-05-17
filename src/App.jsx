@@ -27,7 +27,7 @@ const siteProps = {
   name: "Preet Shah",
   title: "Microsoft Student Anbassador",
   email: "preet.shah0997@gmail.com",
-  gitHub: "microsoft",
+  gitHub: "Preet0997",
   instagram: "microsoft",
   linkedIn: "satyanadella",
   medium: "",
