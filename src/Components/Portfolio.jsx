@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Microsoft Learn Student Ambassador",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Global Group of Campus Leaders eager to develop and help Communities for the Better Future.",
+    url: "https://mvp.microsoft.com/en-US/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "One Pager Resume",
     description:
       "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://drive.google.com/uc?export=download&id=1Uaab_JRz4sJqRCb8jwboYjN3ut_S0uYm  ",
   },
   {
-    title: "My Resume Site",
+    title: "Two Pager Resume",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://drive.google.com/uc?export=download&id=1UTSNl9aqNj62Rj0SHMe6b3tNpcu_Z6KG",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Blogs",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Read about interesting concepts on AI and ML.",
+    url: "https://medium.com/@preet.shah007",
   },
 ];
 
