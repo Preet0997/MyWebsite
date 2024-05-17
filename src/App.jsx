@@ -28,11 +28,11 @@ const siteProps = {
   title: "Microsoft Student Anbassador",
   email: "preet.shah0997@gmail.com",
   gitHub: "Preet0997",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  instagram: "preet_shah007",
+  linkedIn: "preet-shah007",
+  medium: "preet.shah007",
+  twitter: "preet_shah007",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
