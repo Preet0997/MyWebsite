@@ -39,13 +39,13 @@ const projectList = [
   {
     title: "One Pager Resume",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Get a jist of my Portfolio.",
     url: "https://drive.google.com/uc?export=download&id=1Uaab_JRz4sJqRCb8jwboYjN3ut_S0uYm  ",
   },
   {
     title: "Two Pager Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Learn about my Portfolio in Detail.",
     url: "https://drive.google.com/uc?export=download&id=1UTSNl9aqNj62Rj0SHMe6b3tNpcu_Z6KG",
   },
   {
