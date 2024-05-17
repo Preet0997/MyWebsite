@@ -30,7 +30,7 @@ const siteProps = {
   gitHub: "Preet0997",
   instagram: "preet_shah007",
   linkedIn: "preet-shah007",
-  medium: "preet.shah007",
+  medium: "preet.shah007  ",
   twitter: "preet_shah007",
   youTube: "",
 };
